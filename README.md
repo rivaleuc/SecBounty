@@ -11,6 +11,7 @@ link). `triage` has every validator independently judge validity and assign a se
 The verb is **"grade severity → tier-scaled payout"** — distinct from a single best-wins bounty; many
 reports can be paid, each by how bad the bug is.
 
+- **Live demo:** https://secbounty.pages.dev
 - **Contract (Bradbury, chain 4221):** `0xcBF0e2Fa91201681d8690be5Df8a317A6a4E9a9b`
 - **Deployed from:** `rivale` (`0xc388…51A44`)
 - **Explorer:** https://explorer-bradbury.genlayer.com/contract/0xcBF0e2Fa91201681d8690be5Df8a317A6a4E9a9b
